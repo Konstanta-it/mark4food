@@ -1,0 +1,6 @@
+title: Работа с ТСД
+collapse: false
+arrange:
+    - SettingUpButtons
+    - Palletizing.md
+    - Shipment.md

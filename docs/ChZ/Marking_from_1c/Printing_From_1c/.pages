@@ -1,0 +1,5 @@
+title: Печать кодов из 1С
+collapse: false
+arrange:
+    - based_on_document.md
+    - group_print.md

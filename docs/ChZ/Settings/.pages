@@ -1,0 +1,12 @@
+title: Настройки
+collapse: false
+arrange:
+    - Settings_ChZ.md
+    - Settings_electronic_digital_signature.md
+    - Settings_order_management_station.md
+    - Settings_SKU.md
+    - NomenclatureCertificates.md
+    - SpecifyingWeightKM.md
+    - Clearing_a_pool_of_marking_codes.md
+    - Logging.md
+    - Integration_with_MCDN.md

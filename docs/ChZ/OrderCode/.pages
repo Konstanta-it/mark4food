@@ -1,0 +1,9 @@
+title: Обеспечение задний кодами
+collapse: false
+arrange:
+    - CreatingScripts.md
+    - OrderCode.md
+    - CodeReservation.md
+    - OrderCodeForAPrintingHouse.md
+    - AutomaticOrder.md
+    - ProvidingTasks.md

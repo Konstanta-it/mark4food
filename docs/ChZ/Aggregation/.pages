@@ -1,0 +1,5 @@
+title: Агрегирование
+collapse: false
+arrange:
+    - ManualAggregation.md
+    - PipelinedAggregation.md

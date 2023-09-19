@@ -1,0 +1,5 @@
+title: Отчеты ЧЗ
+collapse: false
+arrange:
+    - Report_Analysis_of_free_balance.md
+    - Report_Marking_results_for_the_period.md
