@@ -3,4 +3,3 @@ collapse: false
 arrange:
     - SettingUpButtons
     - Palletizing.md
-    - Shipment.md
