@@ -1,5 +1,6 @@
-title: Работа из документа "Задание на маркировку ИС МП"
+title: Интеграция с оборудованием GPS
 collapse: false
 arrange:
+    - Hardware_integration_settings.md
     - Uploading_codes.md
     - LoadingTheResult.md

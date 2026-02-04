@@ -1,0 +1,5 @@
+title: Интеграция с оборудованием Bizerba
+collapse: false
+arrange:
+    - Hardware_integration_settings.md
+    - LabelingBizerba.md
