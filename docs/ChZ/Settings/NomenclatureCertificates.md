@@ -27,6 +27,11 @@
 
 [![3][3]][3]
 
+Чтобы включить функциональную опцию по автоматическому указанию сертификата соответствия в документе Маркировка товаров ИС МП, необходимо перейти в раздел "Интеграция с ИС МП (молоко)" расположенной подсистеме "Честный знак" - "Сервис" и активировать опцию.
+
+[![4][4]][4]
+
 [1]: NomenclatureCertificates.assets/1.png
 [2]: NomenclatureCertificates.assets/2.png
 [3]: NomenclatureCertificates.assets/3.png
+[4]: NomenclatureCertificates.assets/4.png
